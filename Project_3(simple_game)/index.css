@@ -1,0 +1,15 @@
+body 
+{
+	margin: 30px 440px;
+    background-image: url("img/background.jpg");   
+    background-size: cover;
+}
+.content
+{
+    color: azure;
+    font-size: 20px;
+}
+.audio
+{
+    margin: 0px 90px;
+}
